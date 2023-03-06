@@ -2,7 +2,7 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [TF-IDF](#tf-idf)
-* [Word Cloud Visualization](#word-cloud-visualisation)
+* [Word Cloud Visualization](#word-cloud-visualization)
 * [Results](#results)
 
 ## Introduction
